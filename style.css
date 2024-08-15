@@ -130,6 +130,9 @@ html{
     font-size: 1.1rem;
 
 }
+.box P{
+    font-size:30px;;
+}
 /* About Section*/
 #about{
     display: flex;
@@ -149,8 +152,8 @@ html{
 #about  img{
     width:500px;
     height: 400px;
-    padding: 0px 30px;
-    border-radius: 40px;
+    padding: 0px 50px;
+    border-radius: 100%;
 }
 .name{
     padding: 10px;
@@ -162,4 +165,8 @@ html{
 }
 .namep{
     font-size: 3rem;
+}
+.name p{
+    font-size:45px;
+    text-align: justify;
 }
